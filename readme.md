@@ -5,8 +5,8 @@
 tool for geolocalisation comunities and contact them
 
 ### Screenshots
-![1]()
-![2]()
+![1](https://github.com/jero98772/commap/blob/main/misc/1.png?raw=true)
+![2](https://github.com/jero98772/commap/blob/main/misc/2.png?raw=true)
 
 ### Installing
 **Download repositories**
